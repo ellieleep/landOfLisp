@@ -1,9 +1,3 @@
-#|
-guessMyNumberGame.lisp:
-- Author: ellieleep
-- Date: 2023-03-05
-|#
-
 (defparameter *small* 1)
 (defparameter *big* 100)
 
